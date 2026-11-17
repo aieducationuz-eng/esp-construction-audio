@@ -1,0 +1,390 @@
+{
+ "M1L5": {
+  "cues": [
+   0.0,
+   7.77,
+   9.01,
+   14.3,
+   17.97,
+   23.5,
+   25.93
+  ],
+  "voices": {
+   "Plant": "bm_george",
+   "Jasur": "bm_lewis"
+  },
+  "sec": 30.0
+ },
+ "M1L1": {
+  "cues": [
+   0.0,
+   6.0,
+   7.88,
+   16.26,
+   18.55,
+   26.04,
+   31.16,
+   36.96
+  ],
+  "voices": {
+   "Nodir": "bm_george",
+   "You": "bm_lewis"
+  },
+  "sec": 40.0
+ },
+ "M1L2": {
+  "cues": [
+   0.0,
+   9.43,
+   15.17,
+   23.49,
+   28.19,
+   34.85
+  ],
+  "voices": {
+   "Kemal": "bm_george",
+   "Lola": "bf_emma"
+  },
+  "sec": 38.5
+ },
+ "M1L3": {
+  "cues": [
+   0.0,
+   4.82,
+   14.04,
+   23.92,
+   29.96
+  ],
+  "voices": {
+   "Director": "bm_george"
+  },
+  "sec": 37.2
+ },
+ "M1L4": {
+  "cues": [
+   0.0,
+   5.48,
+   11.35,
+   14.19,
+   22.13,
+   25.33
+  ],
+  "voices": {
+   "Sarah": "bf_emma",
+   "Jasur": "bm_george"
+  },
+  "sec": 29.1
+ },
+ "M1L6": {
+  "cues": [
+   0.0,
+   5.89,
+   10.41,
+   16.82,
+   22.34,
+   29.09
+  ],
+  "voices": {
+   "Kemal": "bm_george",
+   "Aziz": "bm_lewis"
+  },
+  "sec": 32.6
+ },
+ "M2L1": {
+  "cues": [
+   0.0,
+   6.44,
+   8.03,
+   15.52,
+   21.96,
+   24.46
+  ],
+  "voices": {
+   "Jasur": "bm_george",
+   "Aziz": "bm_lewis"
+  },
+  "sec": 32.0
+ },
+ "M2L2": {
+  "cues": [
+   0.0,
+   2.5,
+   9.73,
+   12.46,
+   20.04,
+   23.6
+  ],
+  "voices": {
+   "Student": "bm_george",
+   "Jasur": "bm_lewis"
+  },
+  "sec": 30.5
+ },
+ "M2L3": {
+  "cues": [
+   0.0,
+   2.5,
+   7.81,
+   9.84,
+   15.67,
+   20.77,
+   24.52
+  ],
+  "voices": {
+   "Daniel": "bm_george",
+   "Jasur": "bm_lewis"
+  },
+  "sec": 29.5
+ },
+ "M2L4": {
+  "cues": [
+   0.0,
+   4.18,
+   9.07,
+   11.38,
+   15.84,
+   22.6
+  ],
+  "voices": {
+   "Malika": "bf_emma",
+   "Jasur": "bm_george"
+  },
+  "sec": 27.8
+ },
+ "M2L5": {
+  "cues": [
+   0.0,
+   5.55,
+   9.5,
+   16.58,
+   21.64,
+   31.22
+  ],
+  "voices": {
+   "Daniel": "bm_george",
+   "Jasur": "bm_lewis"
+  },
+  "sec": 34.8
+ },
+ "M2L6": {
+  "cues": [
+   0.0,
+   7.94,
+   14.62,
+   20.32,
+   26.55
+  ],
+  "voices": {
+   "Farrukh": "bm_george",
+   "Jasur": "bm_lewis"
+  },
+  "sec": 30.8
+ },
+ "M2L7": {
+  "cues": [
+   0.0,
+   7.11,
+   9.45,
+   13.1,
+   21.0,
+   24.65
+  ],
+  "voices": {
+   "Manager": "bm_george",
+   "Farrukh": "bm_lewis"
+  },
+  "sec": 30.2
+ },
+ "M2L8": {
+  "cues": [
+   0.0,
+   2.37,
+   9.35,
+   11.16,
+   19.68,
+   21.32
+  ],
+  "voices": {
+   "Consultant": "bm_george",
+   "Jasur": "bm_lewis"
+  },
+  "sec": 26.4
+ },
+ "M3L1": {
+  "cues": [
+   0.0,
+   7.34,
+   17.54,
+   19.76,
+   30.3,
+   35.57
+  ],
+  "voices": {
+   "Jasur": "bm_george",
+   "Supplier": "bm_lewis"
+  },
+  "sec": 38.7
+ },
+ "M3L2": {
+  "cues": [
+   0.0,
+   6.42,
+   8.41,
+   19.38,
+   23.94,
+   32.67
+  ],
+  "voices": {
+   "Jasur": "bm_george",
+   "Plant": "bm_lewis"
+  },
+  "sec": 38.7
+ },
+ "M3L3": {
+  "cues": [
+   0.0,
+   5.23,
+   8.94,
+   14.21,
+   18.16,
+   21.86
+  ],
+  "voices": {
+   "Jasur": "bm_george",
+   "Sales": "bm_lewis"
+  },
+  "sec": 28.0
+ },
+ "M3L4": {
+  "cues": [
+   0.0,
+   5.46,
+   9.03,
+   11.93,
+   16.67,
+   22.73
+  ],
+  "voices": {
+   "Dilnoza": "bf_emma",
+   "Jasur": "bm_george"
+  },
+  "sec": 26.6
+ },
+ "M3L5": {
+  "cues": [
+   0.0,
+   7.92,
+   10.24,
+   13.08,
+   19.72,
+   23.2
+  ],
+  "voices": {
+   "Driver": "bm_george",
+   "Jasur": "bm_lewis"
+  },
+  "sec": 26.4
+ },
+ "M3L6": {
+  "cues": [
+   0.0,
+   4.76,
+   13.08,
+   17.99,
+   23.45,
+   26.48
+  ],
+  "voices": {
+   "Selin": "bf_emma",
+   "Jasur": "bm_george"
+  },
+  "sec": 31.5
+ },
+ "M3L7": {
+  "cues": [
+   0.0,
+   3.39,
+   9.09,
+   14.09,
+   19.06
+  ],
+  "voices": {
+   "Murat": "bm_george"
+  },
+  "sec": 26.2
+ },
+ "M4L1": {
+  "cues": [
+   0.0,
+   4.95,
+   10.76,
+   12.93,
+   20.62,
+   23.24
+  ],
+  "voices": {
+   "Rustam": "bm_george",
+   "Jasur": "bm_lewis"
+  },
+  "sec": 30.5
+ },
+ "M4L2": {
+  "cues": [
+   0.0,
+   5.44,
+   7.83,
+   11.93,
+   14.94,
+   18.29,
+   20.47
+  ],
+  "voices": {
+   "Signaller": "bm_george",
+   "Operator": "bm_lewis"
+  },
+  "sec": 25.0
+ },
+ "M4L3": {
+  "cues": [
+   0.0,
+   4.27,
+   8.92,
+   11.18,
+   22.69,
+   25.95
+  ],
+  "voices": {
+   "Visitor": "bm_george",
+   "Guard": "bm_lewis"
+  },
+  "sec": 32.0
+ },
+ "M4L4": {
+  "cues": [
+   0.0,
+   2.78,
+   9.9,
+   12.42,
+   18.89,
+   24.22
+  ],
+  "voices": {
+   "Service": "bm_george",
+   "Jasur": "bm_lewis"
+  },
+  "sec": 33.6
+ },
+ "M4L5": {
+  "cues": [
+   0.0,
+   5.36,
+   10.03,
+   16.97,
+   24.65
+  ],
+  "voices": {
+   "Malika": "bf_emma"
+  },
+  "sec": 30.9
+ }
+}
